@@ -1,3 +1,6 @@
+
+console.log ("Connected");
+
 //red,green,yellow
 let light = "Edis";
 if (light === "green") {

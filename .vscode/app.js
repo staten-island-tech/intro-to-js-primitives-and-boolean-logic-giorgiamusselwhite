@@ -117,3 +117,17 @@ function color() {
 }
 color(); */
 
+/* //challenge 1
+let students = ["Riya", "Omor", "Alan", 
+"Jaiyu", "Michael", "Lisa", "Richard"]
+let result = students.filter(student => student.length > 4)
+//filtering out all students whose names have less than 5 characters
+ */
+/* 
+ //challenge 2
+ let students = ["Riya", "Omor", "Alan", 
+"Jaiyu", "Michael", "Lisa", "Richard"]
+console.log(students.includes("Junshen"));
+console.log(students.some(name => name == "Savva" || name == "Alan"));
+//checking if the array includes Junshen and then seeing if Alan or Savva were  included in some of the array
+ */
